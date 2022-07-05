@@ -19,7 +19,7 @@ This is how it should look like:
           * ...
        * extensions
  
-[Or jump to how I have done them, to look at how I did it.](###-How-I-have-structured-them:)
+[Or jump to how I have done them, to look at how I did it.](###How-I-have-structured-them:)
 
 
 ### Third Step :
