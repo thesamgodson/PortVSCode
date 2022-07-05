@@ -19,14 +19,14 @@ This is how it should look like:
           * ...
        * extensions
  
-[Or jump to how I have done them, to look at how I did it.](##How-to-structure-the-compilers-into-folders)
+[Or jump to how I have done them, to look at how I did it.](##-How-to-structure-the-compilers-into-folders)
 
 
 ### Third Step :
-->Now in "user-data" folder paste the following files when you run "%APPDATA%\Code" or you can do it the old fashioned way. 
+* Now in "user-data" folder paste the following files when you run "%APPDATA%\Code" or you can do it the old fashioned way. 
 Go to "C:\Users\'YourUserName'\AppData\Roaming\Code" and paste everything there to the user-data folder in Removable Disk
 
-->Now in "extensions" folder paste the following when you run "%USERPROFILE%\.vscode\extensions" or you can do it the old fashioned way. 
+* Now in "extensions" folder paste the following when you run "%USERPROFILE%\.vscode\extensions" or you can do it the old fashioned way. 
 Go to "C:\Users\'YourUserName'\.vscode\extensions" and paste everything there to the extensions folder in Removable Disk
 
 
@@ -52,16 +52,11 @@ Image on how to use it:
 ### Or just download from the google drive links which I have probably provided, if not then I may have forgotten about that.
 
 
-*I'll include snapshots in assets folder or inside the readme file itself to get a clear view on how the files are meant to be saved*
-
-*I didnt require other compilers/interpreters while writing this piece so I haven't researched on how other interpreters/compilers work.* Thank You.
-
-
 ## How to structure the compilers into folders
 I wrote the code as per *my convenience*, you *can change* the path to your preference.
 And this is what my drive looks like:
 
->(Again while I would like to *emphasize* that you can structure it in any way, just make sure it is reflected in the script too)
+>(Again while I would like to *emphasize* that you can structure it in any way, just make sure it is reflected in the python script too)
 
 **Sam's Drive**
 * VSCode
@@ -100,7 +95,7 @@ Contents of 'user-data'(which we created in `Third Step`) in data:
 ![Contents of 'user-data'](/assets/Screenshots/2.1.1.1.data_user-data.png)
 
 
-Contents of 'extensions'(`Third Step`, I know I have a lot of extensions,Just wanted to make sure they work)-
+Contents of 'extensions'(`Third Step`. I know I know, I have a lot of extensions, just wanted to make sure they work :)-
 
 ![Contents of 'extensions'](/assets/Screenshots/2.1.1.2.Code_Extensions.png)
 
@@ -126,4 +121,7 @@ Contents of 'Python39':
 
 
 #### Misc.:
+
 I used ShareX for the screenshots.
+
+*I did not require other compilers/interpreters while writing this piece so I haven't researched on how other interpreters/compilers work. Thank You.
