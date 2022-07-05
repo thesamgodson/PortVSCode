@@ -1,6 +1,6 @@
 # How to install VSCode as Portable in a Removable Disk(Pendrive) or something along those lines.
 
-*** Before installing and doing anything, kindly read the whole thing once. It won't take more than 15 minutes at maximum, so as to to not mess up any stuff along the way.*** Thank You
+***Before installing and doing anything, kindly read the whole thing once. It won't take more than 15 minutes at maximum, so as to to not mess up any stuff along the way.*** Thank You
 
 ## Installing Portable VSCode
 ### First Step : 
@@ -12,12 +12,12 @@ Create a new folder named "data" in  in the path where the extracted .exe file l
 Then create two subfolders inside "data" and name it as "user-data" and "extensions"
 
 This is how it should look like:
-- VSCode-win32-x64-1.25.0-insider
-    -Code.exe (or code executable)
-    -data
-       - user-data
-          - ...
-       - extensions
+* VSCode-win32-x64-1.25.0-insider
+    *Code.exe (or code executable)
+    *data
+       * user-data
+          * ...
+       * extensions
  
 Or Jump to 
 [How I have done them](###-How-I-have-structured-them-with-images: ) to look at how I did it.
@@ -62,16 +62,15 @@ I wrote the code as per *my convenience*, you *can change* the path to your pref
 And this is what my drive looks like:
 (Again while I would like to *emphasize* that you can structure it in any way, just make sure it is reflected in the script too)
 Sam's Drive
--VSCode
-    -CODE
-       -..Portable VSCode extracted into this folder
-    -compilers
-       -MinGW
-          -bin
-       -jdk-17
-          -...
-       -Python39
-          -...
+*VSCode
+    *CODE
+       *..Portable VSCode extracted into this folder
+    *compilers
+       *MinGW
+          *bin
+       *jdk-17
+          *bin
+       *Python39
 
 
 ### How I have structured them with images:
