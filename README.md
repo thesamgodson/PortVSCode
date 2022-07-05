@@ -1,6 +1,6 @@
 # How to install VSCode as Portable in a Removable Disk(Pendrive) or something along those lines.
 
-***Before installing and doing anything, kindly read the whole thing once. It won't take more than 15 minutes at maximum, so as to to not mess up any stuff along the way.*** Thank You
+***Before installing and doing anything, kindly read the whole thing once. It won't take more than 15 minutes at maximum, so as to to not mess up any stuff along the way.Thank You*** 
 
 ## Installing Portable VSCode
 ### First Step : 
@@ -43,7 +43,11 @@ Yeah, same as python. Install it and then copy or just straight up download it i
 
 ## How to Run the exe file:
 Open the terminal and run the exe file.
+
+Administrator Permissions ***are not required on most computers***, except in a a few oddball computers.
+
 Image on how to use it:
+
 ![how to use it](/assets/Screenshots/exefile.png)
 
 `I think it is self-explanatory.`
