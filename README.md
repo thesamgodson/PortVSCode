@@ -19,8 +19,7 @@ This is how it should look like:
           * ...
        * extensions
  
-Or Jump to 
-[How I have done them](###-How-I-have-structured-them-with-images: ) to look at how I did it.
+[Or jump to how I have done them, to look at how I did it.](###-How-I-have-structured-them:)
 
 
 ### Third Step :
@@ -73,7 +72,7 @@ Sam's Drive
        * Python39
 
 
-### How I have structured them with images:
+### How I have structured them:
 My Removable Disk:
 
 ![My Removable Disk:](/assets/Screenshots/1.Drive.png)
@@ -91,7 +90,7 @@ Contents of 'CODE'(Contains VSCode's exe, i.e the portable vscode which was down
 
 Contents of 'data' in CODE(Things which we created in `Second Step`):
 
-![Contents of 'data'](/assets/Screenshots/2.1.1.0.VSCode_data)
+![Contents of 'data'](/assets/Screenshots/2.1.1.0.VSCode_data.png)
 
 Contents of 'user-data'(which we created in `Third Step`) in data:
 
