@@ -56,11 +56,14 @@ Image on how to use it:
 
 *I didnt require other compilers/interpreters while writing this piece so I haven't researched on how other interpreters/compilers work.* Thank You.
 
+
 ## How to structure the compilers into folders
 I wrote the code as per *my convenience*, you *can change* the path to your preference.
 And this is what my drive looks like:
-(Again while I would like to *emphasize* that you can structure it in any way, just make sure it is reflected in the script too)
-Sam's Drive
+
+>(Again while I would like to *emphasize* that you can structure it in any way, just make sure it is reflected in the script too)
+
+**Sam's Drive**
 * VSCode
     * CODE
        * ..Portable VSCode extracted into this folder
