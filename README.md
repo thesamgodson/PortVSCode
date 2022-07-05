@@ -1,4 +1,4 @@
-# How to install VSCode as Portable in a Remobvable Disk(Pendrive) or something along those lines.
+# How to install VSCode as Portable in a Removable Disk(Pendrive) or something along those lines.
 
 *** Before installing and doing anything, kindly read the whole thing once. It won't take more than 15 minutes at maximum, so as to to not mess up any stuff along the way.*** Thank You
 
@@ -21,7 +21,8 @@ This is how it should look like:
 |   |   |   |- ...
 |   |- ...
  
-Or Jump to [How I have done them](#-How-I-have-structured-them-with-images:) to look at how I did it.
+Or Jump to 
+[How I have done them](#-How-I-have-structured-them-with-images: ) to look at how I did it.
 
 
 ### Third Step :
@@ -51,34 +52,34 @@ Sam's Drive
 
 ### How I have structured them with images:
 My Removable Disk:
-/assets/Screenshots/1.Drive.png
+![My Removable Disk:](/assets/Screenshots/1.Drive.png)
 
 Contents of 'VSCode' folder:
-/assets/Screenshots/2.0.VSCode.png
+![Contents of 'VSCode' folder](/assets/Screenshots/2.0.VSCode.png)
 
 Contents of 'CODE'(Contains VSCode's exe, i.e the portable vscode which was downloaded in the `First Step`):
-/assets/Screenshots/2.1.0.CODE.png
+![Contents of 'CODE'](/assets/Screenshots/2.1.0.CODE.png)
 
 Contents of 'data' in CODE(Things which we created in `Second Step`):
-/assets/Screenshots/2.1.1.0.VSCode_data
+![Contents of 'data'](/assets/Screenshots/2.1.1.0.VSCode_data)
 
 Contents of 'user-data'(which we created in `Third Step`) in data:
-/assets/Screenshots/2.1.1.1.data_user-data.png
+![Contents of 'user-data'](/assets/Screenshots/2.1.1.1.data_user-data.png)
 
 Contents of 'extensions'(`Third Step`, I know I have a lot of extensions,Just wanted to make sure they work)-
-/assets/Screenshots/2.1.1.2.Code_Extensions
+![Contents of 'extensions'](/assets/Screenshots/2.1.1.2.Code_Extensions)
 
 Contents of 'Compilers' folder:
-/assets/Screenshots/2.2.0.Compilers.png
+![Contents of 'Compilers'](/assets/Screenshots/2.2.0.Compilers.png)
 
 Contents of 'jdk':
-/assets/Screenshots/2.2.1.jdk.png
+![Contents of 'jdk](/assets/Screenshots/2.2.1.jdk.png)
 
 Contents of 'MinGW':
-/assets/Screenshots/2.2.2.MinGW.png
+![Contents of 'MinGW](/assets/Screenshots/2.2.2.MinGW.png)
 
 Contents of 'Python39':
-/assets/Screenshots/2.2.3.Python.png
+![Contents of 'Python39'](/assets/Screenshots/2.2.3.Python.png)
 
 
 ### MinGW gcc/g++ compilers:
@@ -95,7 +96,7 @@ Yeah, same as python. Install it and then copy or just straight up download it i
 ## How to Run the exe file:
 Open the terminal and run the exe file.
 Image on how to use it:
-/assets/Screenshots/exefile.png
+!(/assets/Screenshots/exefile.png)
 
 `I think it is self-explanatory.`
 
