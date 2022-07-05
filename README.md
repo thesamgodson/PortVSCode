@@ -13,8 +13,8 @@ Then create two subfolders inside "data" and name it as "user-data" and "extensi
 
 This is how it should look like:
 * VSCode-win32-x64-1.25.0-insider
-    *Code.exe (or code executable)
-    *data
+    * Code.exe (or code executable)
+    * data
        * user-data
           * ...
        * extensions
@@ -62,15 +62,15 @@ I wrote the code as per *my convenience*, you *can change* the path to your pref
 And this is what my drive looks like:
 (Again while I would like to *emphasize* that you can structure it in any way, just make sure it is reflected in the script too)
 Sam's Drive
-*VSCode
-    *CODE
-       *..Portable VSCode extracted into this folder
-    *compilers
-       *MinGW
-          *bin
-       *jdk-17
-          *bin
-       *Python39
+* VSCode
+    * CODE
+       * ..Portable VSCode extracted into this folder
+    * compilers
+       * MinGW
+          * bin
+       * jdk-17
+          * bin
+       * Python39
 
 
 ### How I have structured them with images:
